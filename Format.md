@@ -2,7 +2,7 @@
 ### Description
 
 ## Table of Contents
-* Comments
+* [Comments]Comments
 * Variables
 * Logic & Arithmetic
 * Classes & Enums
